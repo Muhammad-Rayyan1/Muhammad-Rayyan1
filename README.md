@@ -12,7 +12,7 @@
 - 👀 I’m very interested in Python and Mathematics.
 - 🕊 I love to help others and contribute to society.
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 📫 How to reach me **atharrayyan533@gmail.com**
+- 📫 How to reach me **atharrayyan54@gmail.com**
 
 
 ##  💻My setup
