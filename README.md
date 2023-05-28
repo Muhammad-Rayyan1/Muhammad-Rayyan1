@@ -11,7 +11,7 @@
 - 👋 Hi, I’m Muhammad Rayyan.
 - 👀 I’m very interested in Python and Mathematics.
 - 🕊 I love to help others and contribute to society.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I’m currently learning Data Analytics.
 - 📫 How to reach me **atharrayyan54@gmail.com**
 
 
