@@ -20,13 +20,12 @@
 
 - 📫 How to reach me: **atharrayyan54@gmail.com**
 
-- 📄 Know about my Resume: [https://drive.google.com/file/d/1EkI6m6pvM5-T8UKwerLhqcCo1ZF269X-/view?usp=sharing](https://drive.google.com/file/d/1EkI6m6pvM5-T8UKwerLhqcCo1ZF269X-/view?usp=sharing)
+- 📄 Know about my Resume: [https://drive.google.com/file/d/1PtPUvD7AaZ4Pjnwr3dvJsNOqPa8LboNT/view?usp=sharing)
 
 - ⚡ Fun fact: **I think I am funny, but sometimes :")**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/muhamma69819302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma69819302" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/athar-rayyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="athar-rayyan" height="30" width="40" /></a>
 <a href="https://kaggle.com/rayyanathar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rayyanathar" height="30" width="40" /></a>
 <a href="https://fb.com/rayyan.athar.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayyan.athar.98" height="30" width="40" /></a>
