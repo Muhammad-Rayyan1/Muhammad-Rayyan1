@@ -20,7 +20,7 @@
 
 - 📫 How to reach me: **atharrayyan54@gmail.com**
 
-- 📄 Know about my Resume: https://drive.google.com/file/d/1PtPUvD7AaZ4Pjnwr3dvJsNOqPa8LboNT/view?usp=sharing
+- 📄 Know about my Resume: [https://drive.google.com/file/d/1PtPUvD7AaZ4Pjnwr3dvJsNOqPa8LboNT/view?usp=sharing](https://drive.google.com/file/d/1hyW8sFfMdTj-sKJzMT7M7DQ0SDq3RJW7/view?usp=sharing)
 
 - ⚡ Fun fact: **I think I am funny, but sometimes :")**
 
