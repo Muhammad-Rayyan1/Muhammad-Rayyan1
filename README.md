@@ -8,7 +8,7 @@
 
 - 📝 Sometimes I also write articles: [https://medium.com/@atharrayyan54](https://medium.com/@atharrayyan54)
 
-- 📂 Explore my notebooks on Kaggle: [Kaggle]([https://www.kaggle.com/yourusername](https://www.kaggle.com/rayyanathar))
+- 📂 Explore my notebooks on Kaggle: [Kaggle](https://www.kaggle.com/rayyanathar)
 
 - 💬 Ask me about **New Technologies, Digital Marketing, E-Commerce**
 
