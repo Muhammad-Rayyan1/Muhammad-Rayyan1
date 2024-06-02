@@ -1,28 +1,19 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rayyan Athar</h1>
-<h3 align="center">A passionate Data Analyst from Karachi-Pakistan.</h3>
+<h3 align="center">A passionate Cybersecurity & Data Analytics enthusiast from Karachi-Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-rayyan1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-rayyan1" /> </p>
 
-- 🔭 I’m currently working on [Data Analytics and Data Science related projects on Kaggle.](https://www.kaggle.com/rayyanathar)
+- 🌱 I’m currently learning, working and looking to collaborate on **projects regarding Cyber Security & Data Science.**
 
-- 🌱 I’m currently learning **Data Analytics, ML, AI**
+- 📝 Sometimes I also write articles: [https://medium.com/@atharrayyan54](https://medium.com/@atharrayyan54)
 
-- 👯 I’m looking to collaborate on **projects regarding Open Source, Data Science, ML, AI projects.**
-
-- 🤝 I’m looking for contributors who contribute in **my projects to make them super cool.**
-
-- 👨‍💻 All of my projects are available at: [https://muhammad-rayyan1.github.io](https://muhammad-rayyan1.github.io)
-
-- 📝 I regularly write articles: [https://medium.com/@atharrayyan54](https://medium.com/@atharrayyan54)
+- 📂 Explore my notebooks on Kaggle: [Kaggle]([https://www.kaggle.com/yourusername](https://www.kaggle.com/rayyanathar))
 
 - 💬 Ask me about **New Technologies, Digital Marketing, E-Commerce**
 
 - 📫 How to reach me: **atharrayyan54@gmail.com**
-
-- 📄 Know about my Resume: [https://drive.google.com/file/d/1PtPUvD7AaZ4Pjnwr3dvJsNOqPa8LboNT/view?usp=sharing](https://drive.google.com/file/d/1hyW8sFfMdTj-sKJzMT7M7DQ0SDq3RJW7/view?usp=sharing)
-
-- ⚡ Fun fact: **I think I am funny, but sometimes :")**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
