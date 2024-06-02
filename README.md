@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning, working and looking to collaborate on **projects regarding Cyber Security & Data Science.**
 
-- 📝 Sometimes I also write articles: [https://medium.com/@atharrayyan54](https://medium.com/@atharrayyan54)
+- 📝 Sometimes I also write articles: [Medium](https://medium.com/@atharrayyan54)
 
 - 📂 Explore my notebooks on Kaggle: [Kaggle](https://www.kaggle.com/rayyanathar)
 
