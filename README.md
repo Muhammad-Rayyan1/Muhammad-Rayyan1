@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Muhammad Rayyan Athar</h1>
-<h3 align="center">A passionate Cybersecurity & Data Analytics Enthusiast from Karachi-Pakistan.</h3>
+<h1 align="center">Hi 👋 I'm Muhammad Rayyan Athar</h1>
+<h3 align="center">A passionate Data Analyst from Karachi-Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-rayyan1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-rayyan1" /> </p>
 
-- 🌱 I’m currently learning, working and looking to collaborate on **projects regarding Cyber Security & Data Science.**
+- 🌱 I’m currently learning, working and looking to collaborate on **projects regarding Data Analytics/Science, Machine Learning and Artificial Intelligence.**
 
 - 📝 Sometimes I also write articles: [Medium](https://medium.com/@atharrayyan54)
 
